@@ -7,11 +7,11 @@
 * [List of dataset](introduction/list-of-dataset.md)
 * [Change log](introduction/change-log.md)
 
-## Basics
+## Dataset
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [IEEE Rate Comparison](dataset/ieee_rate_comparison.md)
+* [Wisconsin XRMB](dataset/wisconsin_xrmb.md)
+* [Mocha TIMIT](dataset/mocha-timit.md)
+* [Interactive blocks](dataset/interactive-blocks.md)
+* [OpenAPI](dataset/openapi.md)
+* [Integrations](dataset/integrations.md)
