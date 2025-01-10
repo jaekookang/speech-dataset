@@ -16,7 +16,7 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
 ### (1) Articulatory data
 - EMA data
 - Head movement is corrected and aligned to occlusal plane with origin at UI ref (upper incisor).
-- Sensors (See <a href="#fig1">Fig 1</a>)
+- Sensors (See <a href="#figure-1">Fig 1</a>)
     - TR: tongue rear (dorsum)
     - TB:  tongue blade
     - TT: tongue tip (~ 1cm back from apex)
