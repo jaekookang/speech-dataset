@@ -20,9 +20,13 @@ layout:
 
 # Speech Data Explorer
 
+<mark style="background-color:orange;">2025-01-10 Work in progress</mark>
+
+
+
 Welcome Speech Lovers!&#x20;
 
-This online document includes meta information about publicly available speech dataset. The types of the speech dataset of interest includes:
+This online document includes meta information about publicly available articulatory-speech dataset. The types of the speech dataset of interest includes:
 
 * Articulatory dataset
 * Acoustic dataset
@@ -31,7 +35,7 @@ This online document includes meta information about publicly available speech d
 
 
 
-This site is built for personal use and actively under development as of Jan 2025.
+This site is built for personal use and <mark style="background-color:orange;">**actively under development**</mark> as of Jan 2025.
 
 
 
