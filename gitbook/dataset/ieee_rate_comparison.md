@@ -26,7 +26,7 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
     - JAW: jaw (lower medial incisors)
     - JAWL: jaw left (canine)
 
-<p id="fig1" style="font-size:smaller; color:gray">Fig 1</p>
+[Fig 1](fig1)
 <div style="display:flex; justify-content:center; align-items:center">
 <img src="../../assets/ieee_rate_comparison/EMA_config.png" />
 <img src="../../assets/ieee_rate_comparison/EMA_config_all.png" />
