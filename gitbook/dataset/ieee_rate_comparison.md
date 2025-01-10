@@ -2,37 +2,36 @@
 icon: pen-to-square
 ---
 
-# Editor
+# Haskins Production Rate Comparison Database (HPRC)
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+## Description
+Database of speech production recorded at two speech rates (ie., "fast" vs. "normal")
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+## Data types
+- 1. Articulatory data (EMA; electromagnetic articolography)
+- 2. Acoustic data (simultaneous recording)
 
-### Writing content
+## Data specifications
+### 1. Articulatory data
+- EMA data
+- Head movement is corrected and aligned to occlusal plane with origin at UI ref (upper incisor).
+- Sensors (See Fig 1)
+    - TR: tongue rear (dorsum)
+    - TB:  tongue blade
+    - TT: tongue tip (~ 1cm back from apex)
+    - UL: upper lip (vermillion border)
+    - LL: lower lip
+    - ML: mouth left (corner)
+    - JAW: jaw (lower medial incisors)
+    - JAWL: jaw left (canine)
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+<div style="display:flex; justify-content:center; align-items:center">
+<img src="../../assets/ieee_rate_comparison/EMA_config.png" />
+<img src="../../assets/ieee_rate_comparison/EMA_config_all.png" />
+</div>
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+### 2. Acoustic data
+acoustic data
 
-### Add a new block
-
-{% stepper %}
-{% step %}
-### Open the insert block menu
-
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
-
-{% step %}
-### Search for the block you need&#x20;
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
-
-{% step %}
-### Insert and edit your block
-
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
-{% endstep %}
-{% endstepper %}
+## References
 

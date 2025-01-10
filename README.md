@@ -1,5 +1,6 @@
 # speech-dataset
-collection of speech dataset (articulatory, acoustics, multimodal etc.)
+- Collection of speech dataset (articulatory, acoustics, multimodal etc.)
+- Link: https://articulatory.gitbook.io/dataset
 
 ---
 - 2025-01-10
