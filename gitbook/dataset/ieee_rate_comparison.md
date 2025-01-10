@@ -30,7 +30,7 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
 <img src="../../assets/ieee_rate_comparison/EMA_config.png" />
 <img src="../../assets/ieee_rate_comparison/EMA_config_all.png" />
 </div>
-<figcaption style="display:flex; justify-content:center; align-items:center"> >Fig 1</figcaption>
+<figcaption id="fig1" style="display:flex; justify-content:center; align-items:center">Fig 1</figcaption>
 
 ### (2) Acoustic data
 acoustic data
