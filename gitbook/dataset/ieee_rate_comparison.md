@@ -16,7 +16,7 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
 ### (1) Articulatory data
 - EMA data
 - Head movement is corrected and aligned to occlusal plane with origin at UI ref (upper incisor).
-- Sensors (See [Fig 1](#fig1))
+- Sensors (See <a href="#fig1">Fig 1</a>)
     - TR: tongue rear (dorsum)
     - TB:  tongue blade
     - TT: tongue tip (~ 1cm back from apex)
@@ -26,13 +26,11 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
     - JAW: jaw (lower medial incisors)
     - JAWL: jaw left (canine)
 
-<!-- <div style="display:flex; justify-content:center; align-items:center"> -->
-<!-- <img src="../../assets/ieee_rate_comparison/EMA_config.png" />
-<img src="../../assets/ieee_rate_comparison/EMA_config_all.png" /> -->
-![EMA Config](../../assets/ieee_rate_comparison/EMA_config.png)
-![EMA Config All](../../assets/ieee_rate_comparison/EMA_config_all.png)
-<!-- </div> -->
-<figcaption id="fig1" style="display:flex; justify-content:center; align-items:center">Fig 1</figcaption>
+<p id="fig1" style="font-size:smaller; color:gray">Fig 1</p>
+<div style="display:flex; justify-content:center; align-items:center">
+<img src="../../assets/ieee_rate_comparison/EMA_config.png" />
+<img src="../../assets/ieee_rate_comparison/EMA_config_all.png" />
+</div>
 
 ### (2) Acoustic data
 acoustic data
