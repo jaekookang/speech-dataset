@@ -37,10 +37,10 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
 
 ### (2) Acoustic data
 
+#### Figure 2
 
-
-
-
+![](../../assets/ieee_rate_comparison/norm_formants_normal.png) ![](../../assets/ieee_rate_comparison/norm_formants_fast.png)
+Normalized vowel formant frequencies by 8 speakers (F01-04, M01-M04) and 5 vowels (IY1, EH1, AE1, AA1, UW1)
 
 
 ## 4. Exploratory Data Analysis
