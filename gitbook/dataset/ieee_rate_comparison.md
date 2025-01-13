@@ -37,7 +37,11 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
 
 ### (2) Acoustic data
 
-acoustic data
+
+
+
+
+
 
 ## 4. Exploratory Data Analysis
 
