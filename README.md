@@ -10,3 +10,6 @@
 - 2025-01-10
     - ieee dataset (working)
     - mngu0 meta created
+- 2025-01-17
+    - added artic vs acous plot (figure4) - ieee dataset
+    
