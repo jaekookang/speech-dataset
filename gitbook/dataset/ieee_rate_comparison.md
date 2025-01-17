@@ -65,6 +65,14 @@ For the exploratory data analysis, outliers were removed first (e.g., too short 
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>F01</td><td>Before (top) and after (bottom) outlier removal</td><td></td><td></td><td><a href="../.gitbook/assets/F01.png">F01.png</a></td></tr><tr><td>F02</td><td>Before (top) and after (bottom) outlier removal</td><td></td><td></td><td><a href="../.gitbook/assets/F02.png">F02.png</a></td></tr><tr><td>F03</td><td>Before (top) and after (bottom) outlier removal</td><td></td><td></td><td><a href="../.gitbook/assets/F03.png">F03.png</a></td></tr><tr><td>F04</td><td>Before (top) and after (bottom) outlier removal</td><td></td><td></td><td><a href="../.gitbook/assets/F04.png">F04.png</a></td></tr><tr><td>M01</td><td>Before (top) and after (bottom) outlier removal</td><td></td><td></td><td><a href="../.gitbook/assets/M01.png">M01.png</a></td></tr><tr><td>M02</td><td>Before (top) and after (bottom) outlier removal</td><td></td><td></td><td><a href="../.gitbook/assets/M02.png">M02.png</a></td></tr><tr><td>M03</td><td>Before (top) and after (bottom) outlier removal</td><td></td><td></td><td><a href="../.gitbook/assets/M03.png">M03.png</a></td></tr><tr><td>M04</td><td>Before (top) and after (bottom) outlier removal</td><td></td><td></td><td><a href="../.gitbook/assets/M04.png">M04.png</a></td></tr></tbody></table>
 
+####
+
+#### Overall articulatory and acoustic variability
+
+<figure><img src="../.gitbook/assets/overall_fast_normal_diff.png" alt=""><figcaption><p>Figure 4. Normal vs .fast rate for different vowels and articulation ('Artic') and acoustics ('Acous')</p></figcaption></figure>
+
+
+
 
 
 ### (2) Individual articulatory and acoustic data distribution
