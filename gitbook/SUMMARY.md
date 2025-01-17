@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Speech Data Explorer](README.md)
+* [Articulatory Data Explorer](README.md)
 
 ## Introduction
 
