@@ -28,23 +28,4 @@ const handleFetchEvent = async (request, context) => {
 
 ### Expandable sections
 
-<details>
-
-<summary>Click me to expand</summary>
-
-Expandable blocks are helpful in condensing what could otherwise be a lengthy paragraph. They are also great in step-by-step guides and FAQs.
-
-</details>
-
-### Drawings
-
-<img alt="" class="gitbook-drawing">
-
-### Embedded content
-
-{% embed url="https://www.youtube.com/watch?v=YILlrDYzAm4" %}
-
-{% hint style="info" %}
-GitBook supports thousands of embedded websites out-of-the-box, simply by pasting their links. Feel free to check out which ones[ are supported natively](https://iframely.com).
-{% endhint %}
-
+ work in progress...
