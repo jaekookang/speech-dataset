@@ -1,23 +1,27 @@
 ---
 icon: bullseye-arrow
+description: An overview of dataset covered here.
 ---
 
 # List of dataset
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+* [ieee\_rate\_comparison.md](../dataset/ieee_rate_comparison.md "mention")
+* [mngu0.md](../dataset/mngu0.md "mention")
+* [wisconsin\_xrmb.md](../dataset/wisconsin_xrmb.md "mention")
+* [mocha-timit.md](../dataset/mocha-timit.md "mention")
+* [ar5-usc-timit.md](../dataset/ar5-usc-timit.md "mention")
+* [ar6-ema-mae.md](../dataset/ar6-ema-mae.md "mention")
+* [ar7-ultrasuite.md](../dataset/ar7-ultrasuite.md "mention")
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
 
-### Import
+TODO: make a table, add links, add data type, add num speakers&#x20;
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
 
-### Sync a repository
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.

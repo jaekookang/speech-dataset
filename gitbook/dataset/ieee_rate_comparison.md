@@ -1,14 +1,23 @@
 ---
-icon: pen-to-square
+icon: database
+description: Haskins Rate Comparison Dataset (IEEE sentences)
 ---
 
-# IEEE Rate Comparison
+# AR1: IEEE Rate Comparison
 
-last updated: 2025-01-10
+last updated: 2025-01-23
+
+***
 
 ## 1. Description
 
 Database of speech production recorded at two speech rates (ie., "fast" vs. "normal")
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ## 2. Data types
 
@@ -81,4 +90,5 @@ For the exploratory data analysis, outliers were removed first (e.g., too short 
 
 ## 5. References
 
+* Tiede, M., Espy-Wilson, C. Y., Goldenberg, D., Mitra, V., Nam, H., & Sivaraman, G. (2017). Quantifying kinematic aspects of reduction in a contrasting rate production task. The Journal of the Acoustical Society of America, 141(5), 3580–3580. https://doi.org/10.1121/1.4987629
 * Tiede, M. (2017). Haskins IEEE Rate Comparison DB. https://yale.app.box.com/s/cfn8hj2puveo65fq54rp1ml2mk7moj3h

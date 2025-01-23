@@ -1,31 +1,24 @@
 ---
-icon: hand-pointer
+icon: database
 ---
 
-# Interactive blocks
+# AR2: MNGU0
 
-In addition to the default Markdown you can write, GitBook has a number of out-of-the-box interactive blocks you can use. You can find interactive blocks by pressing `/` from within the editor.
+last updated: 2025-01-23
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption></figcaption></figure>
+## 1. Description
 
-### Tabs
+EMA dataset of a singler-speaker's articulatory kinematics
 
-{% tabs %}
-{% tab title="First tab" %}
-Each tab is like a mini page — it can contain multiple other blocks, of any type. So you can add code blocks, images, integration blocks and more to individual tabs in the same tab block.
-{% endtab %}
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
-{% tab title="Second tab" %}
-Add images, embedded content, code blocks, and more.
 
-```javascript
-const handleFetchEvent = async (request, context) => {
-    return new Response({message: "Hello World"});
-};
-```
-{% endtab %}
-{% endtabs %}
 
-### Expandable sections
+## References:
 
- work in progress...
+* Richmond, K., Hoole, P., & King, S. (2011). Announcing the Electromagnetic Articulography (Day 1) Subset of the mngu0 Articulatory Corpus. _Interspeech_.
+* [https://service.tib.eu/ldmservice/dataset/mngu0-ema-dataset](https://service.tib.eu/ldmservice/dataset/mngu0-ema-dataset)
