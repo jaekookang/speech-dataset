@@ -5,19 +5,15 @@ description: Haskins Rate Comparison Dataset (IEEE sentences)
 
 # AR1: IEEE Rate Comparison
 
-last updated: 2025-01-23
+last updated: 2025-01-31
 
 ***
+
+<table><thead><tr><th width="210">Section</th><th>Details</th></tr></thead><tbody><tr><td>Description</td><td>Database of speech production recorded at two speech rates ("fast" vs. "normal")</td></tr><tr><td>Data Types</td><td><p>1. Articulatory data (EMA) </p><p>2. Acoustic data (simultaneous recording)</p></td></tr><tr><td>Articulatory Data</td><td>EMA data, head movement corrected and aligned to occlusal plane</td></tr><tr><td>Sensors</td><td>TR (tongue rear), TB (tongue blade), TT (tongue tip), UL (upper lip), LL (lower lip), ML (mouth left), JAW (jaw), JAWL (jaw left)</td></tr><tr><td>Acoustic Data</td><td>Normalized vowel formant frequencies by 8 speakers (F01-04, M01-M04) and 5 vowels (IY1, EH1, AE1, AA1, UW1)</td></tr><tr><td>Exploratory Data Analysis</td><td>Outliers removed, 9 vowels selected, data normalized using Z-scoring method</td></tr><tr><td>Descriptive Statistics</td><td>Detailed statistics for various parameters (e.g., Token, Block, Rep, Duration, f0, F1, F2, F3, etc.)</td></tr><tr><td>Data Distribution</td><td>Before and after outlier removal for each speaker (F01-F04, M01-M04)</td></tr><tr><td>Individual Data Distribution</td><td>Separate data distribution for male and female speakers at normal and fast speeds</td></tr></tbody></table>
 
 ## 1. Description
 
 Database of speech production recorded at two speech rates (ie., "fast" vs. "normal")
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
 ## 2. Data types
 
