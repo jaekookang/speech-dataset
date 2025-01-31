@@ -21,7 +21,7 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
 
 ## 2. Data types
 
-1. Articulatory data (EMA; electromagnetic articolography)
+1. Articulatory data (EMA; electromagnetic articulography)
 2. Acoustic data (simultaneous recording)
 
 ## 3. Data specifications
@@ -86,7 +86,37 @@ For the exploratory data analysis, outliers were removed first (e.g., too short 
 
 ### (2) Individual articulatory and acoustic data distribution
 
+#### Male speakers' data distribution
 
+{% tabs %}
+{% tab title="M01" %}
+| normal speed (vowel center)                                                  | fast speed (vowel center)                                                |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/M01_N_ctr (1).png" alt="" data-size="original"> | <img src="../.gitbook/assets/M01_F_ctr.png" alt="" data-size="original"> |
+
+
+{% endtab %}
+
+{% tab title="M02" %}
+| normal speed (vowel center)                                              | fast speed (vowel center)                                                |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/M02_N_ctr.png" alt="" data-size="original"> | <img src="../.gitbook/assets/M02_F_ctr.png" alt="" data-size="original"> |
+{% endtab %}
+
+{% tab title="M03" %}
+| normal speed (vowel center)                                                  | fast speed (vowel center)                                                    |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/M03_N_ctr (1).png" alt="" data-size="original"> | <img src="../.gitbook/assets/M03_F_ctr (2).png" alt="" data-size="original"> |
+{% endtab %}
+
+{% tab title="M04" %}
+| normal speed (vowel center)                                                  | fast speed (vowel center)                                                |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/M04_N_ctr (1).png" alt="" data-size="original"> | <img src="../.gitbook/assets/M04_F_ctr.png" alt="" data-size="original"> |
+{% endtab %}
+{% endtabs %}
+
+#### Female speakers' data distribution
 
 ## 5. References
 
