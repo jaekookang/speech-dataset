@@ -93,8 +93,6 @@ For the exploratory data analysis, outliers were removed first (e.g., too short 
 | normal speed (vowel center)                                                  | fast speed (vowel center)                                                |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <img src="../.gitbook/assets/M01_N_ctr (1).png" alt="" data-size="original"> | <img src="../.gitbook/assets/M01_F_ctr.png" alt="" data-size="original"> |
-
-
 {% endtab %}
 
 {% tab title="M02" %}
@@ -117,6 +115,36 @@ For the exploratory data analysis, outliers were removed first (e.g., too short 
 {% endtabs %}
 
 #### Female speakers' data distribution
+
+{% tabs %}
+{% tab title="F01" %}
+| normal speed (vowel center)                                              | fast speed (vowel center)                                                |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/F01_N_ctr.png" alt="" data-size="original"> | <img src="../.gitbook/assets/F01_F_ctr.png" alt="" data-size="original"> |
+{% endtab %}
+
+{% tab title="F02" %}
+| normal speed (vowel center)                                              | fast speed (vowel center)                                                |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/F02_N_ctr.png" alt="" data-size="original"> | <img src="../.gitbook/assets/F02_F_ctr.png" alt="" data-size="original"> |
+{% endtab %}
+
+{% tab title="F03" %}
+| normal speed (vowel center)                                              | fast speed (vowel center)                                                |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/F03_N_ctr.png" alt="" data-size="original"> | <img src="../.gitbook/assets/F03_F_ctr.png" alt="" data-size="original"> |
+{% endtab %}
+
+{% tab title="F04" %}
+| normal speed (vowel center)                                              | fast speed (vowel center)                                                |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/F04_N_ctr.png" alt="" data-size="original"> | <img src="../.gitbook/assets/F04_F_ctr.png" alt="" data-size="original"> |
+{% endtab %}
+{% endtabs %}
+
+
+
+
 
 ## 5. References
 
