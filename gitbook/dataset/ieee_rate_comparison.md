@@ -20,7 +20,7 @@ Database of speech production recorded at two speech rates (ie., "fast" vs. "nor
 1. Articulatory data (EMA; electromagnetic articulography)
 2. Acoustic data (simultaneous recording)
 
-## 3. Data specifications
+## 3. Data Specifications
 
 ### (1) Articulatory data
 
