@@ -4,6 +4,7 @@
 
 ## Introduction
 
+* [Why Articulatory Data](introduction/Why-Articulatory-Data.md)
 * [List of dataset](introduction/list-of-dataset.md)
 * [Change log](introduction/change-log.md)
 
