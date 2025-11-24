@@ -22,9 +22,9 @@ layout:
 
 
 
-Welcome Speech Lovers!&#x20;
+Welcome Speech Lovers!
 
-Speech articulation data is very useful, but not so easy to find and utilize. This website curates a collection of articulatory-speech data either publicly available or not and organizes them with their meta information and some useful exploratory data analysis. I hope this website helps researchers, students, engineers and clinicians working in speech-related areas.&#x20;
+Speech articulation data is very useful, but not so easy to find and use. This website curates a collection of articulatory-speech data either publicly available or not and organizes them with their meta information and some useful exploratory data analysis. I hope this website helps researchers, students, engineers and clinicians working in speech-related areas.
 
 The type of data will be as follows:
 
@@ -33,7 +33,7 @@ The type of data will be as follows:
 * Multimodal dataset (audio-visual, articulation-acoustics etc.)
 * and so on...
 
-This site is built for anyone who work with articulatory data for doing research or make applications out of them. It is <mark style="background-color:orange;">**actively under development**</mark> as of Jan 2025. If you have more ideas or suggestions feel free to contact me at jaekoo.jk@gmail or leave an issue at [https://github.com/jaekookang/speech-dataset](https://github.com/jaekookang/speech-dataset).
+This site is built for anyone who work with articulatory data for doing research or make applications out of them. It is <mark style="background-color:orange;">**actively under development**</mark> as of Nov 2025. If you have more ideas or suggestions feel free to contact me at jaekoo.jk@gmail or leave an issue at [https://github.com/jaekookang/speech-dataset](https://github.com/jaekookang/speech-dataset).
 
 
 
